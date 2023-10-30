@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Tienam123/Meta-Lamp-pet/static/css/main.073c9b0a.css",
+    "main.js": "/Tienam123/Meta-Lamp-pet/static/js/main.79aa59cf.js",
+    "static/js/787.33b9fc2a.chunk.js": "/Tienam123/Meta-Lamp-pet/static/js/787.33b9fc2a.chunk.js",
+    "static/media/logo.svg": "/Tienam123/Meta-Lamp-pet/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Tienam123/Meta-Lamp-pet/index.html",
+    "main.073c9b0a.css.map": "/Tienam123/Meta-Lamp-pet/static/css/main.073c9b0a.css.map",
+    "main.79aa59cf.js.map": "/Tienam123/Meta-Lamp-pet/static/js/main.79aa59cf.js.map",
+    "787.33b9fc2a.chunk.js.map": "/Tienam123/Meta-Lamp-pet/static/js/787.33b9fc2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.79aa59cf.js"
+  ]
+}

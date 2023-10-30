@@ -1,0 +1,13 @@
+@import "../../../scss/base/colors-pallete";
+.input {
+  border: 1px solid $dark25;
+}
+.inputhover {
+  border: 1px solid $dark50;
+}
+.inputtext {
+  font-family: Montserrat;
+  font-weight: 700;
+  font-size: 12px;
+  text-transform: uppercase;
+}
